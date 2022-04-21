@@ -3,10 +3,14 @@
  Model building walkthrough:
  
  Data Clean up via Databrick & Pandas
+ 
 Converting the Kindle review text data into token counts using CountVectorizer (ScikitLearns)
+
 Convert numerical rating into Positive & Negative review to be use for training/testing
+
 Use Pycaret to create a classification model and compare for Accuracy using F1 Score
 Optimize the model by hyperparameter tuning. 
+
 deployment via Streamlit.
 
 link:
